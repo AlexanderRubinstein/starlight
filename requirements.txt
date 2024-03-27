@@ -65,3 +65,4 @@ zipp==3.17.0
 # The following packages are required for the margin_exps.ipynb notebook
 ipykernel
 ipython
+pandas
