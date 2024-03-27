@@ -62,3 +62,6 @@ typing_extensions==4.10.0
 urllib3==2.2.1
 wandb==0.16.4
 zipp==3.17.0
+# The following packages are required for the margin_exps.ipynb notebook
+ipykernel
+ipython
